@@ -39,7 +39,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 group">
             <span className="text-2xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors">
-              Ask Sam!
+              Ask Sam!!
             </span>
           </Link>
 
