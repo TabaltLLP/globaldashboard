@@ -71,11 +71,9 @@ const Home = () => {
                 transition={{ duration: 0.6, delay: 0.2 }}
                 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight tracking-tight"
               >
-                Premier Outsourcing.
+                Engage Our Personal Assistants.
                 <br />
-                <span className="text-blue-600">Scale without losing</span>
-                <br />
-                your brand's voice.
+                <span className="text-blue-600">Delegate Business & Personal Work!</span>
               </motion.h1>
 
               <motion.p
