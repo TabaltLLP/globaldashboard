@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://google.com", "permanent": false }
+  ]
 }
