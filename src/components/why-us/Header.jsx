@@ -36,7 +36,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-2 group">
             <img
               src="/assets/logo.svg"
-              alt="Horatio Logo"
+              alt="Tabalt Ltd Logo"
               className="h-8 w-auto"
               onError={(e) => {
                 e.target.style.display = 'none';
@@ -47,10 +47,10 @@ const Header = () => {
               className="text-2xl font-bold text-gray-900 hidden"
               style={{ display: 'none' }}
             >
-              Horatio
+              Tabalt Ltd
             </span>
             <span className="text-2xl font-bold text-gray-900 group-hover:text-primary-800 transition-colors">
-              Horatio
+              Tabalt Ltd
             </span>
           </Link>
 

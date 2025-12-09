@@ -38,7 +38,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div>
             <Link to="/" className="text-2xl font-bold text-white mb-4 block">
-              Horatio
+              Tabalt Ltd
             </Link>
             <p className="text-gray-400 mb-6">
               Premier outsourcing services that help businesses scale without losing their identity.

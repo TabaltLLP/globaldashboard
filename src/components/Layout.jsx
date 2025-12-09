@@ -29,7 +29,7 @@ const Layout = ({ children, title }) => {
             <div className="flex items-center space-x-8">
               <Link to={getDashboardPath()} className="flex items-center space-x-2 group">
                 <span className="text-2xl font-bold text-gray-900 group-hover:text-primary-800 transition-colors">
-                  Horatio
+                  Tabalt Ltd
                 </span>
               </Link>
               <div className="hidden md:flex items-center space-x-6">

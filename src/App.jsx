@@ -34,6 +34,8 @@ import ProtectedRoute from './components/ProtectedRoute';
 import Home from './pages/Home';
 import WhyUsPage from './pages/WhyUsPage';
 import Plans from './pages/Plans';
+import Services from './pages/Services';
+import LondonAgents from './pages/LondonAgents';
 
 function App() {
   return (
@@ -45,6 +47,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/why-us" element={<WhyUsPage />} />
             <Route path="/plans" element={<Plans />} />
+            <Route path="/services" element={<Services />} />
+            <Route path="/services/london-agents" element={<LondonAgents />} />
 
             {/* Customer Routes */}
             <Route path="/customer/login" element={<CustomerLogin />} />
